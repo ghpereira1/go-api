@@ -4,6 +4,8 @@ Uma API RESTful desenvolvida em **Go** para gerenciamento de produtos, utilizand
 
 O projeto é totalmente containerizado com **Docker**, facilitando a configuração do ambiente e do banco de dados **PostgreSQL**.
 
+Este projeto foi desenvolvido como parte dos meus estudos iniciais em Go.
+
 -----------------------------------
 
 ## Créditos
