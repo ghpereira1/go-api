@@ -6,6 +6,12 @@ O projeto é totalmente containerizado com **Docker**, facilitando a configuraç
 
 -----------------------------------
 
+## Créditos
+Este projeto foi desenvolvido seguindo o tutorial do canal **Go Lab Tutoriais**: 
+[Assista ao vídeo aqui](https://www.youtube.com/watch?v=3p4mpId_ZU8)
+
+-----------------------------------
+
 ## Tecnologias Utilizadas
 
 * **Linguagem:** [Go (Golang)](https://go.dev/) 1.23+
@@ -48,6 +54,12 @@ A API estará disponível em: `http://localhost:8000`
 
 -----------------------------------
 
+## Documentação (Swagger)
+A API possui documentação interativa via Swagger. Com a aplicação rodando, acesse:
+[http://localhost:8000/swagger/index.html](http://localhost:8000/swagger/index.html)
+
+-----------------------------------
+
 ## Endpoints da API
 
 ### Produtos
@@ -65,15 +77,3 @@ A API estará disponível em: `http://localhost:8000`
   "product_name": "Batata",
   "price": 20
 }
-
------------------------------------
-
-## Documentação (Swagger)
-A API possui documentação interativa via Swagger. Com a aplicação rodando, acesse:
-[http://localhost:8000/swagger/index.html](http://localhost:8000/swagger/index.html)
-
------------------------------------
-
-## Créditos
-Este projeto foi desenvolvido seguindo o tutorial do canal **Go Labd Tutorial**: 
-[Assista ao vídeo aqui](https://www.youtube.com/watch?v=3p4mpId_ZU8)
